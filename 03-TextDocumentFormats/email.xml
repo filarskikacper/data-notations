@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <people>
+        <sender>XYZ</sender>
+        <recipient>XYZ</recipient>
+    </people>
+    <message>
+        <subject>Subject</subject>
+        <body>Body</body>
+    </message>
+</email>
