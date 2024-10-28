@@ -1,0 +1,12 @@
+{
+    "transport": "train",
+    "name": "Jan Kowalski",
+    "from": "Tarnów",
+    "to": "Kraków Główny",
+    "class": "executive",
+    "year": 2024,
+    "month": 10,
+    "day": 28,
+    "depart_time": "18:45",
+    "seat": "20A"
+}

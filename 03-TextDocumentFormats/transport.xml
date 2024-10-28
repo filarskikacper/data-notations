@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <car brand="Seat" model="Ibiza" releaseYear="2006">
+        <specs>
+            <engine unit="cc">1400</engine>
+            <horsepower unit="HP">75</horsepower>
+            <doors>3</doors>
+            <color>black</color>
+        </specs>
+    </car>
+    <bike brand="Kross" model="Hexagon" releaseYear="2015">
+        <specs>
+            <wheels>2</wheels>
+            <gears>7</gears>
+            <price unit="PLN">1500</price>
+            <color>Red</color>
+        </specs>
+    </bike>
+    <motorcycle brand="Honda" model="Hornet" releaseYear="2010">
+        <specs>
+            <wheels>2</wheels>
+            <engine unit="cc">600</engine>
+            <maxspeed unit="kph">250</maxspeed>
+            <color>Black</color>
+        </specs>
+    </motorcycle>
+</transport>

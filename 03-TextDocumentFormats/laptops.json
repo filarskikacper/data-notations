@@ -1,0 +1,30 @@
+[
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+},
+{
+    "brand": "Huawei",
+    "model": "Matebook 14",
+    "year": 2023,
+    "isTouchscreen": true,
+    "devices": ["touchpad","webcam"]
+},
+{
+    "brand": "Dell",
+    "model": "Inspiron 16",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+},
+{
+    "brand": "Asus",
+    "model": "Zenbook 14",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+ }
+]

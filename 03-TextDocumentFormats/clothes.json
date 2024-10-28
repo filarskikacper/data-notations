@@ -53,5 +53,28 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Reserved",
+        "founded": 1998,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 40000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "House",
+        "founded": 2001,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 35000,
+        "products": [
+            "Casual Wear",
+            "Outerwear",
+            "Accessories"
+        ]
     }
+
 ]
